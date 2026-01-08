@@ -1,4 +1,4 @@
-![Moniish95 OS](screenshots/title.png)
+![Moniish95 OS](screenshots/title1.png)
 # Moniish95 OS
 
 MoniishOS OS/Or MonolithicOS is a 64-bit monolithic hobby operating system
@@ -30,5 +30,6 @@ Current version: 1.0.0
 ## Screenshots
 ![Playing tetris](screenshots/tetris.png)
 ![Typing in CLI](screenshots/cli.png)
+
 
 
